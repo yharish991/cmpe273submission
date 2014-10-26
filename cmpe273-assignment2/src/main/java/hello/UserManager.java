@@ -3,7 +3,6 @@ package hello;
 import java.net.UnknownHostException;
 import java.util.Date;
 
-import org.neo4j.cypher.internal.compiler.v2_1.planner.logical.steps.applyOptional;
 
 import com.mongodb.BasicDBObject;
 import com.mongodb.DB;
